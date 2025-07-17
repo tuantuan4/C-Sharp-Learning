@@ -1,0 +1,15 @@
+D:\C_Sharp project\AlgStudy\AlgStudy\bin\Debug\net8.0\AlgStudy.exe
+D:\C_Sharp project\AlgStudy\AlgStudy\bin\Debug\net8.0\AlgStudy.deps.json
+D:\C_Sharp project\AlgStudy\AlgStudy\bin\Debug\net8.0\AlgStudy.runtimeconfig.json
+D:\C_Sharp project\AlgStudy\AlgStudy\bin\Debug\net8.0\AlgStudy.dll
+D:\C_Sharp project\AlgStudy\AlgStudy\bin\Debug\net8.0\AlgStudy.pdb
+D:\C_Sharp project\AlgStudy\AlgStudy\obj\Debug\net8.0\AlgStudy.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_Sharp project\AlgStudy\AlgStudy\obj\Debug\net8.0\AlgStudy.AssemblyInfoInputs.cache
+D:\C_Sharp project\AlgStudy\AlgStudy\obj\Debug\net8.0\AlgStudy.AssemblyInfo.cs
+D:\C_Sharp project\AlgStudy\AlgStudy\obj\Debug\net8.0\AlgStudy.csproj.CoreCompileInputs.cache
+D:\C_Sharp project\AlgStudy\AlgStudy\obj\Debug\net8.0\AlgStudy.sourcelink.json
+D:\C_Sharp project\AlgStudy\AlgStudy\obj\Debug\net8.0\AlgStudy.dll
+D:\C_Sharp project\AlgStudy\AlgStudy\obj\Debug\net8.0\refint\AlgStudy.dll
+D:\C_Sharp project\AlgStudy\AlgStudy\obj\Debug\net8.0\AlgStudy.pdb
+D:\C_Sharp project\AlgStudy\AlgStudy\obj\Debug\net8.0\AlgStudy.genruntimeconfig.cache
+D:\C_Sharp project\AlgStudy\AlgStudy\obj\Debug\net8.0\ref\AlgStudy.dll
